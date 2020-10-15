@@ -19,4 +19,4 @@ client.on("ready", () => {
     console.log(client.user.username + " is ready")
 })
 
-client.login("NzY2MjY3NDExMzU1NTMzMzEy.X4g4Iw.k2Iltx-PL2UeYSrktDJkMUG7Y1A")
+client.login(TOKEN)
